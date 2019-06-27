@@ -1,9 +1,4 @@
 /***
- * NAME : Sachihiko Kanda
- * ID   : A14782640
- * EMAIL: sakanda@ucsd.edu
- * DATE: 12 November 2018
- *
  * This class defines the data to be used in the TritonBlock class
  */
 import java.util.ArrayList;

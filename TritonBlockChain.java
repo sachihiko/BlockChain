@@ -1,9 +1,4 @@
 /***
- * NAME : Sachihiko Kanda
- * ID   : A14782640
- * EMAIL: sakanda@ucsd.edu
- * DATE: 12 November 2018
- *
  * This class implements a BlockChain
  */
 import java.util.*;
